@@ -140,8 +140,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-#Pycharm Specific
-/.idea/
 # Default ignored files
 /shelf/
 /workspace.xml
