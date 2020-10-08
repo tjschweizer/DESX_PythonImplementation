@@ -142,3 +142,11 @@ cython_debug/
 
 #Pycharm Specific
 /.idea/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\tjames\PycharmProjects\pythonProject\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
